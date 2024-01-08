@@ -1,0 +1,8 @@
+# Ignore Python related files
+*.pyc
+__pycache__
+
+# Exclude the stanfords_car directory
+stanford_cars/
+venv/
+.idea/
